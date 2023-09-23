@@ -1,4 +1,5 @@
 # Dataset
+----------------
 
 # Overview
 The dataset used for this color detection project consists of a comprehensive collection of color samples representing a wide range of colors commonly found in the real world. These colors were carefully selected to train and test the color detection model. Each color sample is represented by its corresponding RGB values.
